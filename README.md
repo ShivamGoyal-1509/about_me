@@ -9,7 +9,6 @@ Feel free to explore my work and connect with me on [LinkedIn](https://linkedin.
 - [Skills](#skills)
 - [Projects](#projects)
 - [Work Experience](#work-experience)
-- [Education](#education)
 - [Certifications](#certifications)
 - [Publications](#publications)
 - [Contact](#contact)
@@ -56,13 +55,6 @@ I am a passionate software developer and engineer with experience in machine lea
 ### Indian Oil Corp Ltd., Pipeline HQ, Noida | Summer Intern
 **May 2019 - June 2019**
 - Created a database management system for employee registration using SQL and C#.
-
-## Education
-**Boston University, Boston, MA, USA**
-- Masters (MS) in Electrical and Computer Engineering (ECE), Expected May 2025
-
-**Thapar Institute of Engineering and Technology, Patiala, India**
-- BE in Electronics and Computer Engineering (ENC), May 2021
 
 ## Certifications
 - **Improving Deep Neural Networks** (Coursera) - [Verify](http://coursera.org/verify/ZY9G8ZKE5RVS)
