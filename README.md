@@ -26,13 +26,33 @@ I am a passionate software developer and engineer with experience in machine lea
 - Predicts the mood of an individual using HAAR-CASCADE classifier and computer vision.
 - Uses deep neural networks to predict a proper emoji while typing a sentence.
 
-### 2. [Deafine: ASL Interpreter](https://github.com/ShivamGoyal-1509/Deafine)
+### 2. [Deafine: ASL Interpreter](https://github.com/ShivamGoyal-1509/ASL-Interpreter)
 - Utilizes computer vision and CNN to interpret American Sign Language.
 
 ### 3. [GANs_MNIST_Dataset](https://github.com/ShivamGoyal-1509/GANs_MNIST_Dataset)
 - Generates new MNIST handwritten digit datasets using Generator and Discriminator Models.
 
-### 4. [Face Recognition with Indicators using OpenCV and Intel RealSense 435i Depth](https://github.com/ShivamGoyal-1509/Face-Recognition)
+### 4. [Face Recognition with Indicators using OpenCV and Intel RealSense 435i Depth](https://github.com/ShivamGoyal-1509/Intel_RealSense_FaceRecog_Indicator)
+- Uses Intel RealSense 435i for face recognition and Indicator Lights that turn green for 5 seconds after a face is detected.
+- Employs OpenCV, pyrealsense2, Haar-Cascade, and multi-threading.
+
+### 5. [Emoji Prediction Using NLP](https://github.com/ShivamGoyal-1509/Emoji-Prediction-Using-NLP)
+- Uses Intel RealSense 435i for face recognition and Indicator Lights that turn green for 5 seconds after a face is detected.
+- Employs OpenCV, pyrealsense2, Haar-Cascade, and multi-threading.
+
+### 6. [COVID Prediction using Locally Weighted Regression](https://github.com/ShivamGoyal-1509/COVID-19-Prediction-using-Locally-Weighted-Regression)
+- Uses Intel RealSense 435i for face recognition and Indicator Lights that turn green for 5 seconds after a face is detected.
+- Employs OpenCV, pyrealsense2, Haar-Cascade, and multi-threading.
+
+### 7. [KNN & Decision Trees & Random-Forest](https://github.com/ShivamGoyal-1509/ionosphere-data-using-KNN-Decision-Trees-and-Random-Forest)
+- Uses Intel RealSense 435i for face recognition and Indicator Lights that turn green for 5 seconds after a face is detected.
+- Employs OpenCV, pyrealsense2, Haar-Cascade, and multi-threading.
+
+### 8. [Face Feature Recognition](https://github.com/ShivamGoyal-1509/Eye_and_Nose_Recognition_using_OpenCV)
+- Uses Intel RealSense 435i for face recognition and Indicator Lights that turn green for 5 seconds after a face is detected.
+- Employs OpenCV, pyrealsense2, Haar-Cascade, and multi-threading.
+
+### 9. [Temperature Prediction with Automated Trading](https://github.com/ShivamGoyal-1509/TempPrediction-with-Automated-Trading)
 - Uses Intel RealSense 435i for face recognition and Indicator Lights that turn green for 5 seconds after a face is detected.
 - Employs OpenCV, pyrealsense2, Haar-Cascade, and multi-threading.
 
