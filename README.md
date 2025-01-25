@@ -22,34 +22,46 @@ I am a passionate software developer and engineer with experience in machine lea
 **Tools and Frameworks:** JIRA, SAP, ML Libraries (OpenCV, Keras, Matplotlib, TensorFlow, PyTorch, Pandas, Scikit-Learn), Jupyter Notebook, Sublime Text, Xcode, Agile Methodology, Git, Bitbucket
 
 ## Projects
-### 1. [Facemoji – Emoji Prediction using Facial Expression Recognition](https://github.com/ShivamGoyal-1509/Facemoji)
-- Predicts the mood of an individual using HAAR-CASCADE classifier and computer vision.
-- Uses deep neural networks to predict a proper emoji while typing a sentence.
+### 1. [Audio Deepfake Detection](https://github.com/ZouYang31/Audio-deepfake-detection/)
+- This project focuses on developing robust and efficient methods to detect deepfake audio.
+- By analyzing advanced attack strategies and utilizing state-of-the-art machine learning models, our work aims to strengthen the security and reliability of audio systems against deepfake threats.
+  
+### 2. [2D TO 3D RECONSTRUCTION OF MEDICAL IMAGES USING UNSUPERVISED GANs](https://github.com/WalnutEagle/EC-523-Deep-Learning-Project)
+- This project explores unsupervised/weakly supervised learning techniques to reconstruct 3D medical images from biplanar 2D chest X-ray inputs.
+- Experimented with multiple architectures to achieve this goal, including GANs, CNNs, and diffusion models.
 
-### 2. [Deafine: ASL Interpreter](https://github.com/ShivamGoyal-1509/ASL-Interpreter)
-- Utilizes computer vision and CNN to interpret American Sign Language.
+### 3. [Comparing K-Means, Ridge Regression, Decision Trees and Random Forests for Datasets with Outliers and Missing Features](https://github.com/EC503-Project/ec503-project/)
+- This project evaluates the performance of four machine learning techniques—K-Means, Ridge Regression, Decision Trees, and Random Forests—on datasets containing outliers and missing features.
+- The goal is to understand the robustness of these methods under varying data conditions and to analyze their strengths and weaknesses when applied to real-world scenarios.
 
-### 3. [Temperature Prediction with Automated Trading](https://github.com/ShivamGoyal-1509/TempPrediction-with-Automated-Trading)
+### 4. [Temperature Prediction with Automated Trading](https://github.com/ShivamGoyal-1509/TempPrediction-with-Automated-Trading)
 - Uses SVR to forecast next day's temperature.
 - Executes automated trading strategies based on the anticipated temperature fluctuations.
 
-### 4. [GANs_MNIST_Dataset](https://github.com/ShivamGoyal-1509/GANs_MNIST_Dataset)
+### 5. [Facemoji – Emoji Prediction using Facial Expression Recognition](https://github.com/ShivamGoyal-1509/Facemoji)
+- Predicts the mood of an individual using HAAR-CASCADE classifier and computer vision.
+- Uses deep neural networks to predict a proper emoji while typing a sentence.
+
+### 6. [Deafine: ASL Interpreter](https://github.com/ShivamGoyal-1509/ASL-Interpreter)
+- Utilizes computer vision and CNN to interpret American Sign Language.
+
+### 7. [GANs_MNIST_Dataset](https://github.com/ShivamGoyal-1509/GANs_MNIST_Dataset)
 - Generates new MNIST handwritten digit datasets using Generator and Discriminator Models.
 
-### 5. [Face Recognition with Indicators using OpenCV and Intel RealSense 435i Depth](https://github.com/ShivamGoyal-1509/Intel_RealSense_FaceRecog_Indicator)
+### 8. [Face Recognition with Indicators using OpenCV and Intel RealSense 435i Depth](https://github.com/ShivamGoyal-1509/Intel_RealSense_FaceRecog_Indicator)
 - Uses Intel RealSense 435i for face recognition and Indicator Lights that turn green for 5 seconds after a face is detected.
 - Employs OpenCV, pyrealsense2, Haar-Cascade, and multi-threading.
 
-### 6. [Emoji Prediction Using NLP](https://github.com/ShivamGoyal-1509/Emoji-Prediction-Using-NLP)
+### 9. [Emoji Prediction Using NLP](https://github.com/ShivamGoyal-1509/Emoji-Prediction-Using-NLP)
 - Uses Natural Language Processing (NLP) to predict the emoji of text
 
-### 7. [COVID Prediction using Locally Weighted Regression](https://github.com/ShivamGoyal-1509/COVID-19-Prediction-using-Locally-Weighted-Regression)
+### 10. [COVID Prediction using Locally Weighted Regression](https://github.com/ShivamGoyal-1509/COVID-19-Prediction-using-Locally-Weighted-Regression)
 - Uses Locally Weighted regression (LOWESS) to predict ceratin parameters of COVID 19 Pandemic.
 
-### 8. [KNN & Decision Trees & Random-Forest](https://github.com/ShivamGoyal-1509/ionosphere-data-using-KNN-Decision-Trees-and-Random-Forest)
+### 11. [KNN & Decision Trees & Random-Forest](https://github.com/ShivamGoyal-1509/ionosphere-data-using-KNN-Decision-Trees-and-Random-Forest)
 - Uses the Ionosphere Dataset to help and understand the predictions and accuracies of different models such as K nearest neighbours (KNN), Decision Trees and Random Forests.
 
-### 9. [Face Feature Recognition](https://github.com/ShivamGoyal-1509/Eye_and_Nose_Recognition_using_OpenCV)
+### 12. [Face Feature Recognition](https://github.com/ShivamGoyal-1509/Eye_and_Nose_Recognition_using_OpenCV)
 - Uses the HAARCASCADE classifier to detect features of the human body.
 - These features include Eyes and Nose of a human.
 
