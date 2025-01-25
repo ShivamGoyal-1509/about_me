@@ -1,6 +1,6 @@
 # About Me
 
-Welcome to my GitHub repository! Here you will find a collection of my projects, showcasing my skills in software development, machine learning, and automation. I am currently pursuing a Master's degree in Electrical and Computer Engineering at Boston University and have a background in Electronics and Computer Engineering from Thapar Institute of Engineering and Technology.
+Welcome to my GitHub repository! Here you will find a collection of my projects, showcasing my skills in Cybersecurity, Machine Learning, Deep Learning and Automation. I am currently pursuing a Master's degree in Electrical and Computer Engineering at Boston University, Boston, MA and have a background in Electronics and Computer Engineering from Thapar Institute of Engineering and Technology, Patiala, India.
 
 Feel free to explore my work and connect with me on [LinkedIn](https://linkedin.com/in/shivam-goyal-7061291b3).
 
