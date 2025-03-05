@@ -17,9 +17,9 @@ Feel free to explore my work and connect with me on [LinkedIn](https://linkedin.
 I am a passionate software developer and engineer with experience in machine learning, data analytics, and automation. My professional journey has included roles in quality assurance, software development, and process automation. I thrive on solving complex problems and creating efficient solutions.
 
 ## Skills
-**Programming Languages:** Python3, C, C++, HTML, VBScript, Excel Macros, Shell Scripting, SQL, C#, Asp.Net, Swift
+**Programming Languages:** Python, SQL, C++, C#, JavaScript, HTML, VB Scripting, Swift, Shell Scripting, Excel Macros, Asp.Net
 
-**Tools and Frameworks:** JIRA, SAP, ML Libraries (OpenCV, Keras, Matplotlib, TensorFlow, PyTorch, Pandas, Scikit-Learn), Jupyter Notebook, Sublime Text, Xcode, Agile Methodology, Git, Bitbucket
+**Tools and Frameworks:** Agile Methodology, API Development, Git, Bitbucket, JIRA, SAP , Xcode, ML Libraries (OpenCV, Keras, Matplotlib, Tensorflow, Pytorch, Pandas, Sci-Kit Learn), OnShape, MATLAB
 
 ## Projects
 ### 1. [Audio Deepfake Detection](https://github.com/ZouYang31/Audio-deepfake-detection/)
