@@ -37,6 +37,13 @@ I am a passionate software developer and engineer with experience in machine lea
 - Enhanced Memory Access Patterns – Reduced cache misses and improved overall system performance.
 - Simulation & Analysis – Utilized Gem5 to simulate and evaluate the impact of LIRS under different workloads.
 
+### 3. [Document Analyzer for Teachers – AI-powered Grading and Teaching Assistant](https://github.com/ShivamGoyal-1509/EC530_LLM_FinalProject)
+- Developed a full-stack Streamlit web application that automates grading of student assignments and generates teaching material using OpenAI’s GPT-4o, improving efficiency for educators.
+- Engineered robust backend using Python and SQLite to securely store and manage student results (name, email, grades, feedback) with admin CRUD functionalities.
+- Built secure admin login functionality with deletion and record-view options, increasing usability and access control.
+- Integrated GitHub Actions for CI/CD: set up automated workflows for linting (flake8, black), unit testing (pytest), and Streamlit deployment checks to ensure code quality and reliability.
+- Created extensive test suite with pytest-mock to mock OpenAI API and database calls, achieving full isolation and >90% test coverage.
+
 ### 4. [Temperature Prediction with Automated Trading](https://github.com/ShivamGoyal-1509/TempPrediction-with-Automated-Trading)
 - Uses SVR to forecast next day's temperature.
 - Executes automated trading strategies based on the anticipated temperature fluctuations.
