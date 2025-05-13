@@ -37,57 +37,57 @@ I am a passionate software developer and engineer with experience in machine lea
 - Enhanced Memory Access Patterns – Reduced cache misses and improved overall system performance.
 - Simulation & Analysis – Utilized Gem5 to simulate and evaluate the impact of LIRS under different workloads.
 
-### 3. [Document Analyzer for Teachers – AI-powered Grading and Teaching Assistant](https://github.com/ShivamGoyal-1509/EC530_LLM_FinalProject)
+### 4. [Document Analyzer for Teachers – AI-powered Grading and Teaching Assistant](https://github.com/ShivamGoyal-1509/EC530_LLM_FinalProject)
 - Developed a full-stack Streamlit web application that automates grading of student assignments and generates teaching material using OpenAI’s GPT-4o, improving efficiency for educators.
 - Engineered robust backend using Python and SQLite to securely store and manage student results (name, email, grades, feedback) with admin CRUD functionalities.
 - Built secure admin login functionality with deletion and record-view options, increasing usability and access control.
 - Integrated GitHub Actions for CI/CD: set up automated workflows for linting (flake8, black), unit testing (pytest), and Streamlit deployment checks to ensure code quality and reliability.
 - Created extensive test suite with pytest-mock to mock OpenAI API and database calls, achieving full isolation and >90% test coverage.
 
-### 4. [Temperature Prediction with Automated Trading](https://github.com/ShivamGoyal-1509/TempPrediction-with-Automated-Trading)
+### 5. [Temperature Prediction with Automated Trading](https://github.com/ShivamGoyal-1509/TempPrediction-with-Automated-Trading)
 - Uses SVR to forecast next day's temperature.
 - Executes automated trading strategies based on the anticipated temperature fluctuations.
   
-### 5. [Comparing K-Means, Ridge Regression, Decision Trees and Random Forests for Datasets with Outliers and Missing Features](https://github.com/EC503-Project/ec503-project/)
+### 6. [Comparing K-Means, Ridge Regression, Decision Trees and Random Forests for Datasets with Outliers and Missing Features](https://github.com/EC503-Project/ec503-project/)
 - This project evaluates the performance of four machine learning techniques—K-Means, Ridge Regression, Decision Trees, and Random Forests—on datasets containing outliers and missing features.
 - The goal is to understand the robustness of these methods under varying data conditions and to analyze their strengths and weaknesses when applied to real-world scenarios.
 
-### 6. [Facemoji – Emoji Prediction using Facial Expression Recognition](https://github.com/ShivamGoyal-1509/Facemoji)
+### 7. [Facemoji – Emoji Prediction using Facial Expression Recognition](https://github.com/ShivamGoyal-1509/Facemoji)
 - Predicts the mood of an individual using HAAR-CASCADE classifier and computer vision.
 - Uses deep neural networks to predict a proper emoji while typing a sentence.
 
-### 7. [Deafine: ASL Interpreter](https://github.com/ShivamGoyal-1509/ASL-Interpreter)
+### 8. [Deafine: ASL Interpreter](https://github.com/ShivamGoyal-1509/ASL-Interpreter)
 - Utilizes computer vision and CNN to interpret American Sign Language.
 
-### 8. [GANs_MNIST_Dataset](https://github.com/ShivamGoyal-1509/GANs_MNIST_Dataset)
+### 9. [GANs_MNIST_Dataset](https://github.com/ShivamGoyal-1509/GANs_MNIST_Dataset)
 - Generates new MNIST handwritten digit datasets using Generator and Discriminator Models.
 
-### 9. [Face Recognition with Indicators using OpenCV and Intel RealSense 435i Depth](https://github.com/ShivamGoyal-1509/Intel_RealSense_FaceRecog_Indicator)
+### 10. [Face Recognition with Indicators using OpenCV and Intel RealSense 435i Depth](https://github.com/ShivamGoyal-1509/Intel_RealSense_FaceRecog_Indicator)
 - Uses Intel RealSense 435i for face recognition and Indicator Lights that turn green for 5 seconds after a face is detected.
 - Employs OpenCV, pyrealsense2, Haar-Cascade, and multi-threading.
 
-### 10. [Emoji Prediction Using NLP](https://github.com/ShivamGoyal-1509/Emoji-Prediction-Using-NLP)
+### 11. [Emoji Prediction Using NLP](https://github.com/ShivamGoyal-1509/Emoji-Prediction-Using-NLP)
 - Uses Natural Language Processing (NLP) to predict the emoji of text
 
-### 11. [COVID Prediction using Locally Weighted Regression](https://github.com/ShivamGoyal-1509/COVID-19-Prediction-using-Locally-Weighted-Regression)
+### 12. [COVID Prediction using Locally Weighted Regression](https://github.com/ShivamGoyal-1509/COVID-19-Prediction-using-Locally-Weighted-Regression)
 - Uses Locally Weighted regression (LOWESS) to predict ceratin parameters of COVID 19 Pandemic.
 
-### 12. [KNN & Decision Trees & Random-Forest](https://github.com/ShivamGoyal-1509/ionosphere-data-using-KNN-Decision-Trees-and-Random-Forest)
+### 13. [KNN & Decision Trees & Random-Forest](https://github.com/ShivamGoyal-1509/ionosphere-data-using-KNN-Decision-Trees-and-Random-Forest)
 - Uses the Ionosphere Dataset to help and understand the predictions and accuracies of different models such as K nearest neighbours (KNN), Decision Trees and Random Forests.
 
-### 13. [Face Feature Recognition](https://github.com/ShivamGoyal-1509/Eye_and_Nose_Recognition_using_OpenCV)
+### 14. [Face Feature Recognition](https://github.com/ShivamGoyal-1509/Eye_and_Nose_Recognition_using_OpenCV)
 - Uses the HAARCASCADE classifier to detect features of the human body.
 - These features include Eyes and Nose of a human.
 
 
 ## Work Experience
-### Samsung SDS, Gurgaon | Senior Executive Engineer – 1
+### Samsung SDS, Gurgaon | Software Engineer – Automation and QA
 **Oct 2021 – Aug 2023**
 - Developed automation processes using Agile Scrum Methodology and object-oriented programming in Brity-RPA.
 - Conducted manual, UI, visual, and compatibility testing on multiple web applications.
 - Led API testing, improving security posture by 20%.
 
-### Samsung SDS, Gurgaon | Development Intern
+### Samsung SDS, Gurgaon | Software Development Intern
 **July 2021 - Sept 2021**
 - Trained in C and C++.
 - Engaged in proctored tests to get acquainted with the latest industrial technologies.
