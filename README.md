@@ -23,7 +23,7 @@ I am a software engineer with experience in software development, backend system
 
 ## Projects
 
-### 1. DynamicNotch
+### 1. DynamicNotch(https://github.com/ShivamGoyal-1509/DynamicNotchMac)
 - Developed a native SwiftUI macOS utility that transforms the MacBook notch into an interactive interface inspired by Dynamic Island.
 - Integrated Apple Music controls with album artwork, song information, playback controls, playback progress, and interactive scrubbing.
 - Added charging status with battery percentage, charging indicators, and animated notch expansion.
