@@ -1,215 +1,250 @@
-# About Me
+# Shivam Goyal
 
-Welcome to my GitHub repository! Here you will find a collection of my projects, showcasing my skills in Cybersecurity, Data Analytics, Software Development and Testing, Machine Learning, Deep Learning, Computer Architecture and Automation. I hold a Master's degree in Electrical and Computer Engineering with a specialization in Data Analytics from Boston University, Boston, MA and have a background in Electronics and Computer Engineering from Thapar Institute of Engineering and Technology, Patiala, India.
+**Software Engineer | Backend Infrastructure | Cloud & DevOps | Test Automation | Machine Learning**
 
-Feel free to explore my work and connect with me on [LinkedIn](https://linkedin.com/in/shivam-goyal-7061291b3).
+Software Engineer with 3+ years of experience in backend development, cloud infrastructure, software testing, automation, and machine learning. Experienced in building production services, secure device provisioning systems, automated testing frameworks, and AI-powered applications.
 
-## Table of Contents
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Projects](#projects)
-- [Work Experience](#work-experience)
-- [Certifications](#certifications)
-- [Publications](#publications)
-- [Contact](#contact)
+Currently working as a **Device Software Infrastructure Engineer at JUUL Labs**, developing Rust-based backend infrastructure, AWS-integrated services, and hardware-in-the-loop (HIL) testing frameworks.
+
+Master of Science in Electrical and Computer Engineering, specializing in Data Analytics, from Boston University.
+
+[LinkedIn](https://linkedin.com/in/shivam-goyal-7061291b3) | [GitHub](https://github.com/ShivamGoyal-1509) | [Email](mailto:goyal.shivam1509@gmail.com)
+
+---
 
 ## About Me
-I am a software engineer with experience in software development, backend systems, automation, testing, machine learning, and data analytics. My professional journey has included roles spanning software engineering, quality assurance, process automation, machine learning, and hardware-software integration. I enjoy solving complex engineering problems and building reliable and efficient systems.
 
-## Skills
-**Programming Languages:** Python, Rust, C++, Swift, JavaScript, SQL, Shell Scripting
+My professional experience spans backend engineering, infrastructure automation, quality engineering, embedded systems, and applied machine learning.
 
-**Tools and Frameworks:** FastAPI, Flask, REST APIs, Git, GitHub Actions, Buildkite, Docker, AWS, PyTest, Postman, Selenium, SAP, JIRA, Alteryx, Xcode, SwiftUI, OpenCV, TensorFlow, PyTorch, Pandas, scikit-learn, XGBoost, CUDA, Linux/Unix
+I specialize in developing reliable software systems, designing automated workflows, integrating cloud infrastructure, and building testing frameworks that improve software quality and operational efficiency.
 
-## Projects
+My technical interests include:
+
+- **Backend & Systems Engineering:** Rust, Python, REST APIs, WebSockets, and scalable backend services.
+- **Cloud & Infrastructure:** AWS, Docker, CI/CD pipelines, Buildkite, and GitHub Actions.
+- **Software Testing & Automation:** PyTest, API testing, regression testing, test frameworks, and hardware-in-the-loop validation.
+- **Security Engineering:** Mutual TLS (mTLS), hardware-backed encryption, and secure device provisioning.
+- **Machine Learning & AI:** Deep learning, computer vision, NLP, generative AI, and predictive analytics.
+- **Embedded Systems:** Hardware-software integration, device programming, and industrial automation.
+
+---
+
+## Technical Skills
+
+| Category | Technologies |
+|---|---|
+| **Programming Languages** | Python, Rust, C++, Swift, JavaScript, SQL, Shell Scripting, C# |
+| **Backend Development** | FastAPI, Flask, REST APIs, WebSockets, Django |
+| **Cloud & Infrastructure** | AWS (EC2, ECS, ECR, S3, IAM, CloudWatch, ALB, NLB), Docker, Buildkite |
+| **DevOps & CI/CD** | GitHub Actions, Buildkite, Git, Docker, Automated Linting & Validation |
+| **Testing & QA** | PyTest, Selenium, Postman, Bruno, API Testing, UI Automation, Regression Testing, HIL Testing |
+| **Security** | Mutual TLS (mTLS), Hardware-Backed Encryption, Secure Device Provisioning |
+| **Machine Learning** | TensorFlow, PyTorch, scikit-learn, XGBoost, OpenCV, CUDA |
+| **Data & Databases** | Pandas, Alteryx, MySQL, MongoDB, SQLite |
+| **Development Tools** | Linux/Unix, JIRA, SAP, Xcode, SwiftUI, runtime.io |
+| **Embedded Systems** | Raspberry Pi, Hardware-Software Integration, Device Programming |
+
+---
+
+## Professional Experience
+
+### JUUL Labs Inc. — Device Software Infrastructure Engineer
+**San Francisco, CA | January 2026 – Present**
+
+**Tech Stack:** Rust, AWS, Docker, Buildkite, WebSockets, mTLS, HIL Testing, CI/CD
+
+- **Backend Infrastructure:** Built and deployed a Dockerized Rust service on AWS, integrating Buildkite, WebSocket services, and mutual TLS (mTLS) authentication to automate secure device provisioning for high-volume production.
+- **Secure API Development:** Architected Rust-based device programming APIs with hardware-backed encryption, strengthening data security while improving programming reliability and performance.
+- **Cloud & DevOps:** Integrated AWS infrastructure with Buildkite automation to streamline production provisioning workflows, reduce manual intervention, and improve operational scalability.
+- **Test Automation:** Developing a hardware-in-the-loop (HIL) testing framework integrating firmware, software, and analytics to enable repeatable device validation and reduce manual hardware bring-up.
+
+### Advanz101 Business Systems Inc. — Machine Learning Engineering Intern
+**San Jose, CA | July 2025 – January 2026**
+
+**Tech Stack:** Python, FastAPI, OpenAI APIs, AWS, LLMs
+
+- Engineered an AI-powered conversational platform using FastAPI and OpenAI APIs, incorporating retrieval-based techniques for context-aware responses.
+- Developed backend functionality and deployed the application on AWS.
+
+### Samsung SDS — Software Engineer, Automation & QA
+**Gurgaon, India | October 2021 – August 2023**
+
+**Tech Stack:** Python, PyTest, Postman, JavaScript, Brity RPA, SAP, Alteryx, JIRA
+
+- **Quality Engineering:** Designed and executed 1,050 structured test scenarios across four internal applications, covering unit testing, UI validation, and API testing using PyTest and Postman.
+- **Release Management:** Tracked defects, test execution results, and sprint progress through JIRA reporting, improving release reliability by **25%**.
+- **Process Automation:** Automated end-to-end Galaxy smartphone ticket processing and reconciliation workflows using Brity RPA, Python, Alteryx, SAP automation, JavaScript, and Excel Macros.
+- **Operational Efficiency:** Eliminated approximately **90 hours of manual work per month** while improving data accuracy, process consistency, and workflow efficiency.
+
+### Samsung SDS — Software Development Intern
+**Gurgaon, India | July 2021 – September 2021**
+
+**Tech Stack:** C++, Unit Testing, Debugging
+
+- Debugged and optimized internal software tools using C++, improving code reliability and maintainability.
+- Developed unit tests and performed manual validation before sprint releases.
+
+### Variety Innovation Venture Pvt. Ltd. — Software Development Intern
+**Gurgaon, India | February 2021 – June 2021**
+
+**Tech Stack:** Python, Cython, Flask, Django, OpenCV, TensorFlow, PyTorch, Raspberry Pi
+
+- Engineered real-time industrial automation systems integrating Raspberry Pi, Automation HAT, and vision sensors.
+- Improved decision-making speed by **25%** and reduced application latency by **30%** through embedded system and computer vision optimizations.
+- Developed a multithreaded tracking system using Python, Cython, and Shell scripting, integrating Flask APIs for backend communication.
+- Leveraged OpenCV, TensorFlow, PyTorch, scikit-learn, and Pandas for intelligent tracking and analysis.
+- Extended the application with a Django frontend to improve accessibility and scalability.
+
+### Indian Oil Corporation Ltd. — Summer Intern
+**Noida, India | May 2019 – June 2019**
+
+**Tech Stack:** SQL, C#
+
+- Developed a database management application for employee registration using SQL and C#.
+
+---
+
+## Featured Projects
 
 ### 1. [DynamicNotch for Mac](https://github.com/ShivamGoyal-1509/DynamicNotchMac)
-- Developed a native SwiftUI macOS utility that transforms the MacBook notch into an interactive interface inspired by Dynamic Island.
-- Integrated Apple Music controls with album artwork, song information, playback controls, playback progress, and interactive scrubbing.
-- Added charging status with battery percentage, charging indicators, and animated notch expansion.
-- Implemented drag-and-drop AirDrop integration using the native macOS sharing flow.
-- Built the expanded music interface using native SwiftUI Liquid Glass APIs with animated expansion and contraction.
-- Designed a modular activity-based architecture separating music, charging, AirDrop, and interface state management.
 
-### 2. [Audio Deepfake Detection](https://github.com/ZouYang31/Audio-deepfake-detection/)
-- This project focuses on developing robust and efficient methods to detect deepfake audio.
-- By analyzing advanced attack strategies and utilizing state-of-the-art machine learning models, our work aims to strengthen the security and reliability of audio systems against deepfake threats.
-  
-### 3. [2D TO 3D RECONSTRUCTION OF MEDICAL IMAGES USING UNSUPERVISED GANs](https://github.com/WalnutEagle/EC-523-Deep-Learning-Project)
-- This project explores unsupervised/weakly supervised learning techniques to reconstruct 3D medical images from biplanar 2D chest X-ray inputs.
-- Experimented with multiple architectures to achieve this goal, including GANs, CNNs, and diffusion models.
+**Technologies:** Swift, SwiftUI, macOS, Apple Music, Liquid Glass APIs
 
-### 4. [LIRS IMPLEMENTATION FOR Gem5 – INTEL ARCHITECTURE](https://github.com/sgoyal15/EC513_ProjectSpring)
-- This project extends the Gem5 simulator by integrating the LIRS (Low Inter-reference Recency Set) page replacement algorithm for enhanced cache management and memory performance on Intel architectures. The implementation aims to improve cache efficiency, reduce miss rates, and optimize memory access patterns in Gem5 simulations.
-- LIRS Integration – Implemented Low Inter-reference Recency Set (LIRS) for efficient cache replacement in Gem5.
-- Performance Benchmarking – Conducted extensive testing to compare LIRS vs. traditional cache replacement policies (e.g., LRU, FIFO).
-- Enhanced Memory Access Patterns – Reduced cache misses and improved overall system performance.
-- Simulation & Analysis – Utilized Gem5 to simulate and evaluate the impact of LIRS under different workloads.
+Developed a native macOS utility that transforms the MacBook notch into an interactive interface inspired by Apple's Dynamic Island.
 
-### 5. [Document Analyzer for Teachers – AI-powered Grading and Teaching Assistant](https://github.com/ShivamGoyal-1509/EC530_LLM_FinalProject)
-- Developed a full-stack Streamlit web application that automates grading of student assignments and generates teaching material using OpenAI’s GPT-4o, improving efficiency for educators.
-- Engineered robust backend using Python and SQLite to securely store and manage student results (name, email, grades, feedback) with admin CRUD functionalities.
-- Built secure admin login functionality with deletion and record-view options, increasing usability and access control.
-- Integrated GitHub Actions for CI/CD: set up automated workflows for linting (flake8, black), unit testing (pytest), and Streamlit deployment checks to ensure code quality and reliability.
-- Created extensive test suite with pytest-mock to mock OpenAI API and database calls, achieving full isolation and >90% test coverage.
+- Implemented Apple Music integration with playback controls, album artwork, track metadata, and interactive progress scrubbing.
+- Developed charging status indicators with battery percentage and animated notch expansion.
+- Integrated drag-and-drop AirDrop functionality using native macOS sharing APIs.
+- Built the expanded interface using SwiftUI Liquid Glass APIs.
+- Designed a modular architecture separating music, charging, AirDrop, and UI state management.
 
-### 6. [Temperature Prediction with Automated Trading](https://github.com/ShivamGoyal-1509/TempPrediction-with-Automated-Trading)
-- Uses SVR to forecast next day's temperature.
-- Executes automated trading strategies based on the anticipated temperature fluctuations.
-  
-### 7. [Comparing K-Means, Ridge Regression, Decision Trees and Random Forests for Datasets with Outliers and Missing Features](https://github.com/EC503-Project/ec503-project/)
-- This project evaluates the performance of four machine learning techniques—K-Means, Ridge Regression, Decision Trees, and Random Forests—on datasets containing outliers and missing features.
-- The goal is to understand the robustness of these methods under varying data conditions and to analyze their strengths and weaknesses when applied to real-world scenarios.
+### 2. [Document Analyzer for Teachers — AI-Powered Grading Assistant](https://github.com/ShivamGoyal-1509/EC530_LLM_FinalProject)
 
-### 8. [Facemoji – Emoji Prediction using Facial Expression Recognition](https://github.com/ShivamGoyal-1509/Facemoji)
-- Predicts the mood of an individual using HAAR-CASCADE classifier and computer vision.
-- Uses deep neural networks to predict a proper emoji while typing a sentence.
+**Technologies:** Python, Streamlit, OpenAI GPT-4o, SQLite, PyTest, GitHub Actions
 
-### 9. [Deafine: ASL Interpreter](https://github.com/ShivamGoyal-1509/ASL-Interpreter)
-- Utilizes computer vision and CNN to interpret American Sign Language.
+Developed a full-stack AI application that automates assignment grading, generates student feedback, and assists educators with teaching material.
 
-### 10. [GANs_MNIST_Dataset](https://github.com/ShivamGoyal-1509/GANs_MNIST_Dataset)
-- Generates new MNIST handwritten digit datasets using Generator and Discriminator Models.
+- Integrated OpenAI GPT-4o for automated grading and educational content generation.
+- Built Python backend functionality with SQLite for student records, grades, and feedback.
+- Implemented administrative authentication and CRUD operations.
+- Developed CI/CD pipelines using GitHub Actions for automated linting, testing, and deployment validation.
+- Achieved **over 90% test coverage** using PyTest and pytest-mock to isolate API and database dependencies.
 
-### 11. [Face Recognition with Indicators using OpenCV and Intel RealSense 435i Depth](https://github.com/ShivamGoyal-1509/Intel_RealSense_FaceRecog_Indicator)
-- Uses Intel RealSense 435i for face recognition and Indicator Lights that turn green for 5 seconds after a face is detected.
-- Employs OpenCV, pyrealsense2, Haar-Cascade, and multi-threading.
+### 3. [Audio Deepfake Detection](https://github.com/ZouYang31/Audio-deepfake-detection/)
 
-### 12. [Emoji Prediction Using NLP](https://github.com/ShivamGoyal-1509/Emoji-Prediction-Using-NLP)
-- Uses Natural Language Processing (NLP) to predict the emoji of text.
+**Technologies:** Python, Deep Learning, Audio Processing, Cybersecurity
 
-### 13. [COVID Prediction using Locally Weighted Regression](https://github.com/ShivamGoyal-1509/COVID-19-Prediction-using-Locally-Weighted-Regression)
-- Uses Locally Weighted Regression (LOWESS) to predict certain parameters of the COVID-19 pandemic.
+Research project investigating machine learning approaches for detecting AI-generated and manipulated audio.
 
-### 14. [KNN & Decision Trees & Random-Forest](https://github.com/ShivamGoyal-1509/ionosphere-data-using-KNN-Decision-Trees-and-Random-Forest)
-- Uses the Ionosphere Dataset to understand the predictions and accuracies of different models such as K-Nearest Neighbours (KNN), Decision Trees, and Random Forests.
+- Explored deep learning architectures for identifying synthetic audio.
+- Investigated adversarial attack strategies and their implications for audio authentication.
+- Evaluated techniques for improving the robustness of deepfake detection systems.
 
-### 15. [Face Feature Recognition](https://github.com/ShivamGoyal-1509/Eye_and_Nose_Recognition_using_OpenCV)
-- Uses the HAAR-CASCADE classifier to detect features of the human body.
-- These features include the eyes and nose of a human.
+### 4. [2D to 3D Medical Image Reconstruction Using Unsupervised GANs](https://github.com/WalnutEagle/EC-523-Deep-Learning-Project)
 
-## Work Experience
+**Technologies:** Python, GANs, CNNs, Diffusion Models, Computer Vision
 
-### JUUL Labs Inc., San Francisco | Software Engineer, Tools and Test
-**Jan 2026 – Present**
-- Built a Dockerized Rust service integrating AWS, Buildkite, WebSocket services, and mutual TLS (mTLS) authentication, replacing manual steps in the secure device provisioning workflow to reduce operational complexity and improve scalability for high-volume device production.
-- Architected secure Rust APIs for OTP programming, implementing HSM-backed encryption to strengthen data security while improving programming reliability and performance.
-- Developing hardware-in-the-loop (HIL) and automated test systems integrating firmware, software, and analytics to streamline product validation through repeatable testing and reduce manual bring-up.
+Explored unsupervised and weakly supervised deep learning approaches for reconstructing 3D medical images from biplanar 2D chest X-rays.
 
-### Advanz101 Business Systems Inc., San Jose | ML Engineering Intern
-**Jul 2025 – Jan 2026**
-- Engineered an AI conversational platform with FastAPI and OpenAI APIs, using retrieval-based methods and deployed on AWS.
+- Experimented with GANs, CNNs, and diffusion-based architectures.
+- Investigated volumetric reconstruction techniques using limited 2D medical imaging data.
 
-### Samsung SDS, Gurgaon | Software Engineer – Automation and QA
-**Oct 2021 – Aug 2023**
-- Developed automation processes using Agile Scrum Methodology and object-oriented programming in Brity-RPA.
-- Conducted manual, UI, visual, and compatibility testing on multiple web applications.
-- Led API testing, improving security posture by 20%.
+### 5. [LIRS Implementation for Gem5 — Intel Architecture](https://github.com/sgoyal15/EC513_ProjectSpring)
 
-### Samsung SDS, Gurgaon | Software Development Intern
-**July 2021 - Sept 2021**
-- Trained in C and C++.
-- Engaged in proctored tests to get acquainted with the latest industrial technologies.
+**Technologies:** C++, Gem5, Computer Architecture, Cache Management
 
-### Variety Innovation Venture Pvt Ltd, Gurgaon | Software Development Intern
-**Feb 2021 - June 2021**
-- Developed a vision-based track and trace system using Python3, machine learning, and automation technologies.
+Implemented the Low Inter-reference Recency Set (LIRS) cache replacement algorithm within the Gem5 simulation framework.
 
-### Indian Oil Corp Ltd., Pipeline HQ, Noida | Summer Intern
-**May 2019 - June 2019**
-- Created a database management system for employee registration using SQL and C#.
+- Integrated LIRS into the Gem5 cache management system.
+- Benchmarked performance against traditional cache replacement policies, including LRU and FIFO.
+- Analyzed cache miss rates, memory access patterns, and replacement policy efficiency across simulated workloads.
 
-## Certifications
-- **Improving Deep Neural Networks** (Coursera) - [Verify](http://coursera.org/verify/ZY9G8ZKE5RVS)
-- **AI for Everyone** (Coursera) - [Verify](http://coursera.org/verify/U67L8M8S9GGM)
-- **Introduction to Programming in Swift 5** (Coursera) - [Verify](http://coursera.org/verify/55G5CTQ2QYR4)
-- **Introduction to iOS App Development using Swift 5** (Coursera) - [Verify](http://coursera.org/verify/DERCDHXPTPEK)
-- **Machine Learning** (Coding Blocks) - [Verify](https://online.codingblocks.com/certificates/CBOL-54264-c52f)
-- **Data Structures and Algorithms** (Coding Blocks) - [Verify](https://online.codingblocks.com/app/certificates/CBOL-24710-6c8e)
+---
 
-## Publications
-- **Optimization of OTA Circuit using Inversion Coefficient** - [View](http://www.ijrar.org/viewfull.php?p_id=IJRAR19K5115)
-- **Formulation for Optimization of OTA Circuit** - [View](http://www.ijrar.org/viewfull.php?p_id=IJRAR19K5614)
+## Additional Projects
 
-## Contact
-- **Email:** goyal.shivam1509@gmail.com
-- **LinkedIn:** [Shivam Goyal](https://linkedin.com/in/shivam-goyal-7061291b3)
-- **GitHub:** [ShivamGoyal-1509](https://github.com/ShivamGoyal-1509)
+### Machine Learning & Data Analytics
 
-Thank you for visiting my GitHub profile! Feel free to explore my projects and get in touch if you have any questions or collaboration ideas.- Integrated GitHub Actions for CI/CD: set up automated workflows for linting (flake8, black), unit testing (pytest), and Streamlit deployment checks to ensure code quality and reliability.
-- Created extensive test suite with pytest-mock to mock OpenAI API and database calls, achieving full isolation and >90% test coverage.
+**6. [Temperature Prediction with Automated Trading](https://github.com/ShivamGoyal-1509/TempPrediction-with-Automated-Trading)**  
+Developed a Support Vector Regression (SVR) model to forecast daily temperatures and integrated automated trading strategies based on predicted fluctuations.
 
-### 5. [Temperature Prediction with Automated Trading](https://github.com/ShivamGoyal-1509/TempPrediction-with-Automated-Trading)
-- Uses SVR to forecast next day's temperature.
-- Executes automated trading strategies based on the anticipated temperature fluctuations.
-  
-### 6. [Comparing K-Means, Ridge Regression, Decision Trees and Random Forests for Datasets with Outliers and Missing Features](https://github.com/EC503-Project/ec503-project/)
-- This project evaluates the performance of four machine learning techniques—K-Means, Ridge Regression, Decision Trees, and Random Forests—on datasets containing outliers and missing features.
-- The goal is to understand the robustness of these methods under varying data conditions and to analyze their strengths and weaknesses when applied to real-world scenarios.
+**7. [Comparative Analysis of Machine Learning Models](https://github.com/EC503-Project/ec503-project/)**  
+Evaluated K-Means, Ridge Regression, Decision Trees, and Random Forests on datasets containing outliers and missing features to analyze model robustness and prediction performance.
 
-### 7. [Facemoji – Emoji Prediction using Facial Expression Recognition](https://github.com/ShivamGoyal-1509/Facemoji)
-- Predicts the mood of an individual using HAAR-CASCADE classifier and computer vision.
-- Uses deep neural networks to predict a proper emoji while typing a sentence.
+**8. [COVID-19 Prediction Using Locally Weighted Regression](https://github.com/ShivamGoyal-1509/COVID-19-Prediction-using-Locally-Weighted-Regression)**  
+Applied Locally Weighted Regression (LOWESS) to analyze and forecast COVID-19 pandemic trends.
 
-### 8. [Deafine: ASL Interpreter](https://github.com/ShivamGoyal-1509/ASL-Interpreter)
-- Utilizes computer vision and CNN to interpret American Sign Language.
+**9. [KNN, Decision Trees & Random Forest Classification](https://github.com/ShivamGoyal-1509/ionosphere-data-using-KNN-Decision-Trees-and-Random-Forest)**  
+Implemented and compared classification algorithms using the Ionosphere dataset, evaluating prediction accuracy and model performance.
 
-### 9. [GANs_MNIST_Dataset](https://github.com/ShivamGoyal-1509/GANs_MNIST_Dataset)
-- Generates new MNIST handwritten digit datasets using Generator and Discriminator Models.
+### Deep Learning & Computer Vision
 
-### 10. [Face Recognition with Indicators using OpenCV and Intel RealSense 435i Depth](https://github.com/ShivamGoyal-1509/Intel_RealSense_FaceRecog_Indicator)
-- Uses Intel RealSense 435i for face recognition and Indicator Lights that turn green for 5 seconds after a face is detected.
-- Employs OpenCV, pyrealsense2, Haar-Cascade, and multi-threading.
+**10. [Facemoji — Facial Expression Recognition](https://github.com/ShivamGoyal-1509/Facemoji)**  
+Developed a facial expression recognition system using OpenCV and Haar Cascade classifiers, integrating neural networks for contextual emoji prediction.
 
-### 11. [Emoji Prediction Using NLP](https://github.com/ShivamGoyal-1509/Emoji-Prediction-Using-NLP)
-- Uses Natural Language Processing (NLP) to predict the emoji of text
+**11. [Deafine — American Sign Language Interpreter](https://github.com/ShivamGoyal-1509/ASL-Interpreter)**  
+Developed an American Sign Language interpretation system using computer vision and convolutional neural networks.
 
-### 12. [COVID Prediction using Locally Weighted Regression](https://github.com/ShivamGoyal-1509/COVID-19-Prediction-using-Locally-Weighted-Regression)
-- Uses Locally Weighted regression (LOWESS) to predict ceratin parameters of COVID 19 Pandemic.
+**12. [GANs for MNIST Handwritten Digit Generation](https://github.com/ShivamGoyal-1509/GANs_MNIST_Dataset)**  
+Implemented Generative Adversarial Networks using generator and discriminator architectures to generate synthetic handwritten digit images.
 
-### 13. [KNN & Decision Trees & Random-Forest](https://github.com/ShivamGoyal-1509/ionosphere-data-using-KNN-Decision-Trees-and-Random-Forest)
-- Uses the Ionosphere Dataset to help and understand the predictions and accuracies of different models such as K nearest neighbours (KNN), Decision Trees and Random Forests.
+**13. [Face Recognition with Intel RealSense D435i](https://github.com/ShivamGoyal-1509/Intel_RealSense_FaceRecog_Indicator)**  
+Developed a face detection system integrating Intel RealSense depth cameras, OpenCV, multithreading, and automated indicator lights.
 
-### 14. [Face Feature Recognition](https://github.com/ShivamGoyal-1509/Eye_and_Nose_Recognition_using_OpenCV)
-- Uses the HAARCASCADE classifier to detect features of the human body.
-- These features include Eyes and Nose of a human.
+**14. [Emoji Prediction Using NLP](https://github.com/ShivamGoyal-1509/Emoji-Prediction-Using-NLP)**  
+Developed an NLP-based model for predicting contextually relevant emojis from text input.
 
+**15. [Facial Feature Recognition Using OpenCV](https://github.com/ShivamGoyal-1509/Eye_and_Nose_Recognition_using_OpenCV)**  
+Implemented facial feature detection using OpenCV and Haar Cascade classifiers to identify eyes and nose.
 
-## Work Experience
-### Samsung SDS, Gurgaon | Software Engineer – Automation and QA
-**Oct 2021 – Aug 2023**
-- Developed automation processes using Agile Scrum Methodology and object-oriented programming in Brity-RPA.
-- Conducted manual, UI, visual, and compatibility testing on multiple web applications.
-- Led API testing, improving security posture by 20%.
+---
 
-### Samsung SDS, Gurgaon | Software Development Intern
-**July 2021 - Sept 2021**
-- Trained in C and C++.
-- Engaged in proctored tests to get acquainted with the latest industrial technologies.
+## Education
 
-### Variety Innovation Venture Pvt Ltd, Gurgaon | Software Development Intern
-**Feb 2021 - June 2021**
-- Developed a vision-based track and trace system using Python3, machine learning, and automation technologies.
+### Boston University
+**Master of Science in Electrical and Computer Engineering**  
+Specialization: Data Analytics  
+Boston, Massachusetts | September 2023 – May 2025
 
-### Indian Oil Corp Ltd., Pipeline HQ, Noida | Summer Intern
-**May 2019 - June 2019**
-- Created a database management system for employee registration using SQL and C#.
+**Relevant Coursework:** Software Engineering, Machine Learning, Deep Learning, Cybersecurity, Data Analytics, Computer Architecture
+
+### Thapar Institute of Engineering and Technology
+**Bachelor of Engineering in Electronics and Computer Engineering**  
+Patiala, India | August 2017 – May 2021
+
+**Relevant Coursework:** Object-Oriented Programming, Database Management Systems, Microprocessors and Microcontrollers, Digital Signal Processing
+
+---
 
 ## Certifications
-- **Improving Deep Neural Networks** (Coursera) - [Verify](http://coursera.org/verify/ZY9G8ZKE5RVS)
-- **AI for Everyone** (Coursera) - [Verify](http://coursera.org/verify/U67L8M8S9GGM)
-- **Introduction to Programming in Swift 5** (Coursera) - [Verify](http://coursera.org/verify/55G5CTQ2QYR4)
-- **Introduction to iOS App Development using Swift 5** (Coursera) - [Verify](http://coursera.org/verify/DERCDHXPTPEK)
-- **Machine Learning** (Coding Blocks) - [Verify](https://online.codingblocks.com/certificates/CBOL-54264-c52f)
-- **Data Structures and Algorithms** (Coding Blocks) - [Verify](https://online.codingblocks.com/app/certificates/CBOL-24710-6c8e)
+
+| Certification | Issuing Organization | Credential |
+|---|---|---|
+| Improving Deep Neural Networks | Coursera | [Verify](https://coursera.org/verify/ZY9G8ZKE5RVS) |
+| AI for Everyone | Coursera | [Verify](https://coursera.org/verify/U67L8M8S9GGM) |
+| Machine Learning | Coding Blocks | [Verify](https://online.codingblocks.com/certificates/CBOL-54264-c52f) |
+| Introduction to Programming in Swift 5 | Coursera | [Verify](https://coursera.org/verify/55G5CTQ2QYR4) |
+| Introduction to iOS App Development Using Swift 5 | Coursera | [Verify](https://coursera.org/verify/DERCDHXPTPEK) |
+| Data Structures and Algorithms | Coding Blocks | [Verify](https://online.codingblocks.com/app/certificates/CBOL-24710-6c8e) |
+
+---
 
 ## Publications
-- **Optimization of OTA Circuit using Inversion Coefficient** - [View](http://www.ijrar.org/viewfull.php?p_id=IJRAR19K5115)
-- **Formulation for Optimization of OTA Circuit** - [View](http://www.ijrar.org/viewfull.php?p_id=IJRAR19K5614)
+
+**1. Optimization of OTA Circuit Using Inversion Coefficient**  
+International Journal of Research and Analytical Reviews (IJRAR)  
+[View Publication](http://www.ijrar.org/viewfull.php?p_id=IJRAR19K5115)
+
+**2. Formulation for Optimization of OTA Circuit**  
+International Journal of Research and Analytical Reviews (IJRAR)  
+[View Publication](http://www.ijrar.org/viewfull.php?p_id=IJRAR19K5614)
+
+---
 
 ## Contact
-- **Email:** goyal.shivam1509@gmail.com
-- **LinkedIn:** [Shivam Goyal](https://linkedin.com/in/shivam-goyal-7061291b3)
-- **GitHub:** [ShivamGoyal-1509](https://github.com/ShivamGoyal-1509)
 
-Thank you for visiting my GitHub profile! Feel free to explore my projects and get in touch if you have any questions or collaboration ideas.
+I welcome opportunities to connect with professionals working in software engineering, backend infrastructure, cloud technologies, automation, and machine learning.
+
+**Email:** [goyal.shivam1509@gmail.com](mailto:goyal.shivam1509@gmail.com)  
+**LinkedIn:** [linkedin.com/in/shivam-goyal-7061291b3](https://linkedin.com/in/shivam-goyal-7061291b3)  
+**GitHub:** [github.com/ShivamGoyal-1509](https://github.com/ShivamGoyal-1509)
